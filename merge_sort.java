@@ -1,7 +1,5 @@
 package org.example;
-
 import java.util.Arrays;
-
 class Main{
     public static void merge(int [] arr1,int start,int mid,int end){
         int i=start;
