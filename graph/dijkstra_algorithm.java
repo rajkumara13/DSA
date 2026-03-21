@@ -13,6 +13,7 @@ public class Main {
         for(int i=0;i<=4;i++){
             arr.add(new ArrayList<>());
         }
+        
         arr.get(1).add(new Pair(2,1));
         arr.get(1).add(new Pair(3,4));
         arr.get(2).add(new Pair(4,2));
